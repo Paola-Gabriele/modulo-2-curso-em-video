@@ -17,3 +17,9 @@ p {
     text-indent: 1.25rem;
     text-align: justify;
 }
+
+.title {
+    color: white;
+    background-color: #D90D1E;
+    padding-left: 2rem;
+}
