@@ -25,6 +25,7 @@ p {
 
 ul > li {
     margin-left: 4rem;
+    list-style-type: none;
 }
 
 .title {
