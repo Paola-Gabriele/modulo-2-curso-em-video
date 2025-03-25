@@ -13,6 +13,10 @@ h1#title-main {
     color: white;
 }
 
+h3::before {
+    content: ' ▶ ';
+}
+
 p {
     text-indent: 1.25rem;
     text-align: justify;
