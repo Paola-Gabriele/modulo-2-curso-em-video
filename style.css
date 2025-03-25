@@ -28,6 +28,11 @@ ul > li {
     list-style-type: none;
 }
 
+ul > li > a {
+    color: #D90D1E;
+    text-decoration: none;
+}
+
 .title {
     color: #D90D1E;
     padding-left: 2rem;
