@@ -13,14 +13,14 @@ h1#title-main {
     color: white;
 }
 
-h3::before {
-    content: ' ▶ ';
-}
-
 p {
     margin: 0 4rem;
     text-indent: 1.25rem;
     text-align: justify;
+}
+
+ul {
+    display: inline-block;
 }
 
 ul > li {
