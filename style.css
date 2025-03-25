@@ -33,6 +33,11 @@ ul > li > a {
     text-decoration: none;
 }
 
+ul > li > a:hover, ul > li > a:hover::before, ul > li > a:visited::before {
+    color: black;
+    content: '▶ ';
+}
+
 .title {
     color: #D90D1E;
     padding-left: 2rem;
