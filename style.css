@@ -23,6 +23,10 @@ p {
     text-align: justify;
 }
 
+ul > li {
+    margin-left: 4rem;
+}
+
 .title {
     color: #D90D1E;
     padding-left: 2rem;
